@@ -1,0 +1,23 @@
+{
+  "credential": {
+    "credentialId": "CRED-8453-d8dA6BF2",
+    "passportId": "SID-8453-d8dA6BF2",
+    "wallet": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
+    "network": "Base",
+    "identityScore": {
+      "score": 70,
+      "label": "Established"
+    },
+    "reputation": {
+      "score": 50,
+      "label": "Neutral",
+      "sybilRisk": false
+    },
+    "issuedBy": "0xa58588Dc4770E5Ba76A9f9d8B45318a78BBf128C",
+    "issuedAt": "2026-07-19T18:57:31.119Z"
+  },
+  "hash": "0xbcfda9882e93bcb524760a24830a29c73816f1619e0b3cf7aa2c1308e77d1b82",
+  "signature": "0x641f31f6ebf13c292e6e25f8c29406876f7db7e851f04de4182ed25e8c29d5524fd72301ad7c092454d607d79a182f9a05907e09bb20e51eca7384780d4cfaef1c",
+  "issuer": "0xa58588Dc4770E5Ba76A9f9d8B45318a78BBf128C",
+  "status": "VERIFIED"
+}

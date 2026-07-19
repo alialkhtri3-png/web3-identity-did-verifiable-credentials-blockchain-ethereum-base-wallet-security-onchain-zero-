@@ -1,0 +1,16 @@
+{
+  "name": "sovereign-identity-engine",
+  "version": "12.0.0",
+  "description": "Web3/SSI Identity tool optimized for Termux",
+  "main": "index.js",
+  "scripts": {
+    "test": "node db.test.js",
+    "build": "...",
+    "dev": "node --watch index.js"
+  },
+  "author": "Ali Alkhtri",
+  "license": "ISC",
+  "dependencies": {
+    "sql.js": "^1.9.0"
+  }
+}

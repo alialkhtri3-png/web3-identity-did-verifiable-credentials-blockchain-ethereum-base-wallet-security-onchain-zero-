@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.npmrc
+
+# Logs
+*.log
+
+# Dashboard
+../identity-dashboard/
+
+# Tests
+test/
+testRealIdentity.js
+
+# Local services
+mailer.js
+monitor.js
+MigrationProvider
+# Parent dashboard
+../.npmrc
+../identity-dashboard/
+
+# Local reports
+identity-report.json
+wallets.json
+landing.log
+
+.env
+.evn
+node_modules/
+cache/
+out/
+*.log
+
+identity/identity-engine/database/*.json
+issuer.json
+
+# Identity Engine private/runtime data
+database/identities.json
+identity_reports/
+identity/identity-engine/database/
+identity/identity-engine/data/
+
+# Generated credentials
+signed_identity.json
+signed_credential.json
+issuer.json
+
+# Runtime data
+identity/identity-engine/identity/identity-engine/profiles/*.json
+identity/identity-engine/identity/identity-engine/saas/**/data/*.json
+identity/identity-engine/identity/identity-engine/wallet-deposits.json
+extras/
+src/
